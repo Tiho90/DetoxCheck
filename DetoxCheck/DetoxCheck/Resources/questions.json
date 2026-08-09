@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "text": "Wie oft schaust du direkt nach dem Aufwachen aufs Handy?",
+    "type": "choice",
+    "options": [
+      { "id": 1, "text": "Nie", "score": 0 },
+      { "id": 2, "text": "Selten", "score": 1 },
+      { "id": 3, "text": "Oft", "score": 2 },
+      { "id": 4, "text": "Immer", "score": 3 }
+    ],
+    "sliderMin": null,
+    "sliderMax": null,
+    "sliderStep": null,
+    "sliderUnit": null,
+    "maxScore": null
+  },
+  {
+    "id": 2,
+    "text": "Wie oft unterbrichst du ein Gespräch, um aufs Handy zu schauen?",
+    "type": "choice",
+    "options": [
+      { "id": 1, "text": "Nie", "score": 0 },
+      { "id": 2, "text": "Selten", "score": 1 },
+      { "id": 3, "text": "Oft", "score": 2 },
+      { "id": 4, "text": "Immer", "score": 3 }
+    ],
+    "sliderMin": null,
+    "sliderMax": null,
+    "sliderStep": null,
+    "sliderUnit": null,
+    "maxScore": null
+  },
+  {
+    "id": 3,
+    "text": "Wie oft nimmst du dein Handy mit auf die Toilette?",
+    "type": "choice",
+    "options": [
+      { "id": 1, "text": "Nie", "score": 0 },
+      { "id": 2, "text": "Selten", "score": 1 },
+      { "id": 3, "text": "Oft", "score": 2 },
+      { "id": 4, "text": "Immer", "score": 3 }
+    ],
+    "sliderMin": null,
+    "sliderMax": null,
+    "sliderStep": null,
+    "sliderUnit": null,
+    "maxScore": null
+  },
+  {
+    "id": 4,
+    "text": "Wie oft fühlst du dich unruhig, wenn du dein Handy für ein paar Stunden nicht dabei hast?",
+    "type": "choice",
+    "options": [
+      { "id": 1, "text": "Nie", "score": 0 },
+      { "id": 2, "text": "Selten", "score": 1 },
+      { "id": 3, "text": "Oft", "score": 2 },
+      { "id": 4, "text": "Immer", "score": 3 }
+    ],
+    "sliderMin": null,
+    "sliderMax": null,
+    "sliderStep": null,
+    "sliderUnit": null,
+    "maxScore": null
+  },
+  {
+    "id": 5,
+    "text": "Wie oft nutzt du dein Handy noch im Bett, kurz bevor du einschläfst?",
+    "type": "choice",
+    "options": [
+      { "id": 1, "text": "Nie", "score": 0 },
+      { "id": 2, "text": "Selten", "score": 1 },
+      { "id": 3, "text": "Oft", "score": 2 },
+      { "id": 4, "text": "Immer", "score": 3 }
+    ],
+    "sliderMin": null,
+    "sliderMax": null,
+    "sliderStep": null,
+    "sliderUnit": null,
+    "maxScore": null
+  },
+  {
+    "id": 6,
+    "text": "Wie oft öffnest du Apps, ohne bewusst einen Grund dafür zu haben?",
+    "type": "choice",
+    "options": [
+      { "id": 1, "text": "Nie", "score": 0 },
+      { "id": 2, "text": "Selten", "score": 1 },
+      { "id": 3, "text": "Oft", "score": 2 },
+      { "id": 4, "text": "Immer", "score": 3 }
+    ],
+    "sliderMin": null,
+    "sliderMax": null,
+    "sliderStep": null,
+    "sliderUnit": null,
+    "maxScore": null
+  },
+  {
+    "id": 7,
+    "text": "Wie viele Stunden verbringst du an einem durchschnittlichen Tag am Smartphone?",
+    "type": "slider",
+    "options": null,
+    "sliderMin": 0,
+    "sliderMax": 12,
+    "sliderStep": 1,
+    "sliderUnit": "Stunden",
+    "maxScore": 3
+  },
+  {
+    "id": 8,
+    "text": "Wie oft am Tag greifst du geschätzt zum Handy, ohne dass es geklingelt oder vibriert hat?",
+    "type": "slider",
+    "options": null,
+    "sliderMin": 0,
+    "sliderMax": 50,
+    "sliderStep": 5,
+    "sliderUnit": "mal",
+    "maxScore": 3
+  },
+  {
+    "id": 9,
+    "text": "Was würdest du tun, wenn du dein Handy einen ganzen Tag lang nicht hättest?",
+    "type": "text",
+    "options": null,
+    "sliderMin": null,
+    "sliderMax": null,
+    "sliderStep": null,
+    "sliderUnit": null,
+    "maxScore": null
+  },
+  {
+    "id": 10,
+    "text": "In welcher Situation merkst du am ehesten, dass du zu viel Zeit am Handy verbringst?",
+    "type": "text",
+    "options": null,
+    "sliderMin": null,
+    "sliderMax": null,
+    "sliderStep": null,
+    "sliderUnit": null,
+    "maxScore": null
+  }
+]
